@@ -1,0 +1,387 @@
+
+{
+	"theatres":[
+			{
+            "id": "1",
+			"name": "AMC Grand Rapids 18",
+			"address": "3000 Alpine Avenue",
+			"city": "Walker",
+			"state": "Michigan",
+			"zip" : "49544"
+		    },
+		    {
+            "id": "2",
+			"name": "Celebration! Cinema RiverTown",
+			"address": "33728 RiverTown Pkwy",
+			"city": "Grandville",
+			"state": "Michigan",
+			"zip" : "49418"
+		    },
+		    {
+            "id": "3",
+			"name": "Celebration! Cinema Grand Rapids North & IMAX",
+			"address": "2121 Celebration Drive NE",
+			"city": "Grand Rapids",
+			"state": "Michigan",
+			"zip" : "49525"
+			},
+			{
+            "id": "4",
+			"name": "Celebration! Cinema Grand Rapids Woodland",
+			"address": "3195 28th St. SE",
+			"city": "Grand Rapids",
+			"state": "Michigan",
+			"zip" : "49512"
+			}
+		],
+
+"Movies":[
+	{
+    "id": "1",
+	"title": "almost christmas",
+	"descriptn": "A retired widower and his bickering family try to spend five days together during the holidays.",
+	"genres": ["Holiday","Comedy drama"],
+	"image": "Almost Christmas",
+	
+	"showtimes": [
+					{
+					"theatre": {
+								"name": "AMC Grand Rapids 18",
+								"address": "3000 Alpine Avenue",
+								"city": "Walker",
+								"state": "Michigan",
+								"zip" : "49544"
+							    },
+					"dateTime": "2016-11-19T11:40"				
+					},
+					{
+					"theatre": {
+								"name": "Celebration! Cinema RiverTown",
+								"address": "33728 RiverTown Pkwy",
+								"city": "Grandville",
+								"state": "Michigan",
+								"zip" : "49418"
+							    },
+					"dateTime": "2016-11-19T14:40"				
+					},
+					{
+					"theatre": {
+								"name": "Celebration! Cinema Grand Rapids North & IMAX",
+								"address": "2121 Celebration Drive NE",
+								"city": "Grand Rapids",
+								"state": "Michigan",
+								"zip" : "49525"
+
+					},
+					"dateTime": "2016-11-19T13:20"
+					},
+					{
+					"theatre": {
+								"name": "Celebration! Cinema Grand Rapids Woodland",
+								"address": "3195 28th St. SE",
+								"city": "Grand Rapids",
+								"state": "Michigan",
+								"zip" : "49512"
+
+					},
+					"dateTime": "2016-11-19T16:00"
+					}
+				  ]
+
+	},
+
+	{
+          "id": "2",
+	"title": "Doctor Strange",
+	"descriptn": "Dr. Stephen Strange discovers the world of magic after meeting the Ancient One.",
+	"genres": ["Action","Adventure","Fantasy"],
+	"image" : "Doctor Strange",
+	"showtimes": [
+					{
+					"theatre": {
+								"name": "Celebration! Cinema Grand Rapids North & IMAX",
+								"address": "2121 Celebration Drive NE",
+								"city": "Grand Rapids",
+								"state": "Michigan",
+								"zip" : "49525"
+
+					},
+					"dateTime": "2016-11-19T13:20"
+					},
+					{
+					"theatre": {
+								"name": "Celebration! Cinema Grand Rapids Woodland",
+								"address": "3195 28th St. SE",
+								"city": "Grand Rapids",
+								"state": "Michigan",
+								"zip" : "49512"
+
+					},
+					"dateTime": "2016-11-19T16:00"
+					}
+				  ]
+
+	},
+
+	{
+          "id": "3",
+	"title": "Trolls",
+	"descriptn": "A happy troll and her grumpy counterpart embark on a journey to save their fellow villagers.",
+	"genres": ["Adventure","Musical comedy","Fantasy","Animated","Children"],
+	"image": "Trolls",
+	"showtimes": [
+					{
+					"theatre": {
+								"name": "AMC Grand Rapids 18",
+								"address": "3000 Alpine Avenue",
+								"city": "Walker",
+								"state": "Michigan",
+								"zip" : "49544"
+							    },
+					"dateTime": "2016-11-19T11:40"				
+					},
+					{
+					"theatre": {
+								"name": "Celebration! Cinema RiverTown",
+								"address": "33728 RiverTown Pkwy",
+								"city": "Grandville",
+								"state": "Michigan",
+								"zip" : "49418"
+							    },
+					"dateTime": "2016-11-19T14:40"				
+					}
+				]
+	},
+
+	{
+          "id": "4",
+	"title": "Arrival",
+	"descriptn": "A linguist leads a team of investigators to try and communicate with extraterrestrial visitors.",
+	"image": "Arrival",
+	"genres": ["Drama","Thriller","Science fiction"],
+	"showtimes": [
+					{
+					"theatre": {
+								"name": "Celebration! Cinema RiverTown",
+								"address": "33728 RiverTown Pkwy",
+								"city": "Grandville",
+								"state": "Michigan",
+								"zip" : "49418"
+							    },
+					"dateTime": "2016-11-19T14:40"				
+					},
+					{
+					"theatre": {
+								"name": "Celebration! Cinema Grand Rapids North & IMAX",
+								"address": "2121 Celebration Drive NE",
+								"city": "Grand Rapids",
+								"state": "Michigan",
+								"zip" : "49525"
+
+					},
+					"dateTime": "2016-11-19T13:20"
+					}
+				]	
+
+	},
+	{
+          "id": "5",
+	"title": "The Take",
+	"image": "The Take",
+	"descriptn": "An artist and a CIA agent go on an anti-terrorist mission in France.",
+	"genres": ["Action","Thriller"],
+	"showtimes": [
+					{
+					"theatre": {
+								"name": "Celebration! Cinema Grand Rapids North & IMAX",
+								"address": "2121 Celebration Drive NE",
+								"city": "Grand Rapids",
+								"state": "Michigan",
+								"zip" : "49525"
+
+					},
+					"dateTime": "2016-11-19T13:20"
+					},
+					{
+					"theatre": {
+								"name": "Celebration! Cinema Grand Rapids Woodland",
+								"address": "3195 28th St. SE",
+								"city": "Grand Rapids",
+								"state": "Michigan",
+								"zip" : "49512"
+
+					},
+					"dateTime": "2016-11-19T16:00"
+					}
+				]
+
+	},
+
+	{
+          "id": "6",
+	"title": "The Edge of Seventeen",
+	"image": "The Edge of Seventeen",
+	"descriptn": "A high school junior becomes upset after learning that her best friend is dating her older brother.",
+	"genres": ["Comedy drama"],
+	"showtimes": [
+					{
+					"theatre": {
+								"name": "AMC Grand Rapids 18",
+								"address": "3000 Alpine Avenue",
+								"city": "Walker",
+								"state": "Michigan",
+								"zip" : "49544"
+							    },
+					"dateTime": "2016-11-19T11:40"				
+					},
+					{
+					"theatre": {
+								"name": "Celebration! Cinema RiverTown",
+								"address": "33728 RiverTown Pkwy",
+								"city": "Grandville",
+								"state": "Michigan",
+								"zip" : "49418"
+							    },
+					"dateTime": "2016-11-19T14:40"				
+					}
+				]
+
+	},
+
+	{
+          "id": "7",
+	"title": "Pete's Dragon",
+	"image": "Pete's Dragon",
+	"descriptn": "A forest ranger meets an orphan who claims he lives in the woods with a giant, friendly dragon.",
+	"genres": ["Children"],
+	"showtimes": [
+					{
+					"theatre": {
+								"name": "Celebration! Cinema Grand Rapids North & IMAX",
+								"address": "2121 Celebration Drive NE",
+								"city": "Grand Rapids",
+								"state": "Michigan",
+								"zip" : "49525"
+
+					},
+					"dateTime": "2016-11-19T13:20"
+					},
+					{
+					"theatre": {
+								"name": "Celebration! Cinema Grand Rapids Woodland",
+								"address": "3195 28th St. SE",
+								"city": "Grand Rapids",
+								"state": "Michigan",
+								"zip" : "49512"
+
+					},
+					"dateTime": "2016-11-19T16:00"
+					}
+				  ]
+
+	},
+
+	{
+          "id": "8",
+	"title": "finding dory",
+	"image": "finding dory",
+	"descriptn": "Dory (Ellen DeGeneres) the forgetful fish embarks on an epic quest to find her mother and father.",
+	"genres": ["Children"],
+	"showtimes": [
+					{
+					"theatre": {
+								"name": "Celebration! Cinema Grand Rapids Woodland",
+								"address": "3195 28th St. SE",
+								"city": "Grand Rapids",
+								"state": "Michigan",
+								"zip" : "49512"
+
+					},
+					"dateTime": "2016-11-19T16:00"
+					}
+				]
+
+	},
+
+	{
+          "id": "9",
+	"title": "the secret life of pets",
+	"image": "the secret life of pets",
+	"descriptn": "A terrier and his canine pal encounter a rebellious bunny and his gang of abandoned pets.",
+	"genres": ["Children"],
+	"showtimes": [
+					{
+					"theatre": {
+								"name": "Celebration! Cinema Grand Rapids Woodland",
+								"address": "3195 28th St. SE",
+								"city": "Grand Rapids",
+								"state": "Michigan",
+								"zip" : "49512"
+
+					},
+					"dateTime": "2016-11-19T16:00"
+					}
+				]
+
+	}],
+    
+    "tickets":[
+              {
+              "time": "9:00",
+              "date":["11-27-2016","11-28-2016","11-29-2016"],
+              "movieID": "1",
+              "theatreID":["2","3"]
+              },
+              {
+              "time": "9:00",
+              "date":["11-27-2016","11-28-2016","11-29-2016"],
+              "movieID": "2",
+              "theatreID":["1","3"]
+              },
+              {
+              "time": "9:00",
+              "date":["11-27-2016","11-28-2016","11-29-2016"],
+              "movieID": "3",
+              "theatreID":["1,","2","3","4"]
+              },
+              {
+              "time": "9:00",
+              "date":["11-27-2016","11-28-2016","11-29-2016"],
+              "movieID": "4",
+              "theatreID":["1","4"]
+              },
+              {
+              "time": "13:00",
+              "date":["11-27-2016","11-28-2016","11-29-2016"],
+              "movieID": "5",
+              "theatreID":["2","3"]
+              },
+              {
+              "time": "13:00",
+              "date":["11-27-2016","11-28-2016","11-29-2016"],
+              "movieID": "6",
+              "theatreID":["1","2"]
+              },
+              {
+              "time": "13:00",
+              "date":["11-27-2016","11-28-2016","11-29-2016"],
+              "movieID": "7",
+              "theatreID":["3","4"]
+              },
+              {
+              "time": "13:00",
+              "date":["11-27-2016","11-28-2016","11-29-2016"],
+              "movieID": "8",
+              "theatreID":["1","4"]
+              },
+              {
+              "time": "13:00",
+              "date":["11-27-2016","11-28-2016","11-29-2016"],
+              "movieID": "9",
+              "theatreID":["2","4"]
+              }
+              
+              
+              
+              ]
+}

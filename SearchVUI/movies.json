@@ -1,0 +1,61 @@
+
+        [
+          {
+         "id":1,
+          "title": "almost christmas",
+          "descriptn": "A retired widower and his bickering family try to spend five days together during the holidays.",
+          "genres": "Holiday, Comedy drama",
+          "image": "Almost Christmas"
+          },
+         {
+         "id": 2,
+         "title": "Doctor Strange",
+         "descriptn": "Dr. Stephen Strange discovers the world of magic after meeting the Ancient One.",
+         "genres": "Action","Adventure","Fantasy",
+         "image" : "Doctor Strange"
+         },
+
+         
+          {"id":3,
+          "title": "Trolls",
+          "descriptn": "A happy troll and her grumpy counterpart embark on a journey to save their fellow villagers.",
+          "genres": "Adventure,Musical comedy,Fantasy,Animated,Children",
+          "image": "Trolls"
+          },
+          {"id":4,
+          "title": "Arrival",
+          "descriptn": "A linguist leads a team of investigators to try and communicate with extraterrestrial visitors.",
+          "image": "Arrival",
+          "genres": "Drama,Thriller,Science fiction"
+          },
+          {"id":5,
+          "title": "The Take",
+          "image": "The Take",
+          "descriptn": "An artist and a CIA agent go on an anti-terrorist mission in France.",
+          "genres": "Action,Thriller"
+          },
+          {"id":6,
+          "title": "The Edge of Seventeen",
+          "image": "The Edge of Seventeen",
+          "descriptn": "A high school junior becomes upset after learning that her best friend is dating her older brother.",
+          "genres": "Comedy drama"
+          },
+          {"id":7,
+          "title": "Pete's Dragon",
+          "image": "Pete's Dragon",
+          "descriptn": "A forest ranger meets an orphan who claims he lives in the woods with a giant, friendly dragon.",
+          "genres": "Children"
+          },
+          {"id":8,
+          "title": "finding dory",
+          "image": "finding dory",
+          "descriptn": "Dory (Ellen DeGeneres) the forgetful fish embarks on an epic quest to find her mother and father.",
+          "genres": "Children"
+          },
+          {"id":9,
+          "title": "the secret life of pets",
+          "image": "the secret life of pets",
+          "descriptn": "A terrier and his canine pal encounter a rebellious bunny and his gang of abandoned pets.",
+          "genres": "Children"
+          }
+        ]
