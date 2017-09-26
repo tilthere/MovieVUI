@@ -2,7 +2,6 @@
 A movie voice search project for User interface design class, using swift 3.0
 
 
-Screenshots:
 ![0](https://user-images.githubusercontent.com/19338061/30837809-b076f536-a235-11e7-9bf4-aae581f86bbe.png)
 ![7](https://user-images.githubusercontent.com/19338061/30837858-fbb17580-a235-11e7-8726-fbf553d526a5.jpg)
 ![2](https://user-images.githubusercontent.com/19338061/30837818-c878247a-a235-11e7-91f5-7376027d8c16.jpg)
